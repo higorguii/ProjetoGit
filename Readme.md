@@ -8,7 +8,7 @@ git commit -m "título do commit" - salvar no repositório
 
 git status - ver os status da branch
 
-git branch -M "main" - renomear o nome master para main
+git branch -M main - renomear o nome master para main
 
 git push -u origin "nome da branch" - enviar para o github
 
