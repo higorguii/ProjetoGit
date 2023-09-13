@@ -10,4 +10,13 @@ git status - ver os status da branch
 
 git branch -M main - renomear o nome master para main
 
-git push -u origin - enviar para o github
+git push -u origin <nome da branch> - enviar para o github
+
+git checkout <nome da branch> - criar nova branch ou ir para uma outra já criada
+
+git merge <nome da branch> - juntar as branchs
+
+git clone <repo> - clonar um projeto
+
+git pull - puxar atualizações do projeto
+
