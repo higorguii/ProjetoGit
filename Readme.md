@@ -10,4 +10,4 @@ git status - ver os status da branch
 
 git branch -M "main" - renomear o nome master para main
 
-git push -u origin main - enviar para o github
+git push -u origin - enviar para o github
